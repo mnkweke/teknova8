@@ -1,0 +1,9 @@
+flask
+gunicorn
+groq
+faiss-cpu
+langchain-community
+sentence-transformers
+torch
+numpy
+requests
